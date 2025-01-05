@@ -113,12 +113,7 @@ The Currency Converter Chatbot is a real-time currency conversion service with c
 ## Future Scope
 - Add support for multiple languages.
 - Integrate additional financial tools and features.
-- Improve the UI/UX of the chatbot interface.
 
 ---
 
-## License
-This project is open-source and available under the MIT License.
-
----
 
